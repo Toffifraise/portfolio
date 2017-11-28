@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - One Page Wonder (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+body {
+  filter: sepia(60%);
+  background-image: url('../img/regal.png');
+  padding-top: 54px;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+header.masthead {
+  background: url('../img/office_wood.jpg') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+nav.navbar {
+  background-color: rgb(142, 11, 14);
+}
+
+a.navbar-brand {
+  font-family: 'Spectral SC', Helvetica, serif;
+}
+
+header.masthead>.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+h1.display-1{
+  font-family: 'Spectral SC', Helvetica, serif;
+}
+
+@media (min-width: 992px) {
+  header.masthead>.overlay {
+    padding: 10rem 0;
+  }
+}
+
+footer.py-5 {
+  background-color: rgb(142, 11, 14);
+}
