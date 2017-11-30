@@ -43,6 +43,13 @@ h1.display-1{
   font-family: 'Spectral SC', Helvetica, serif;
 }
 
+#parcours, #passion, #inspiration {
+  padding-top: 50px;
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
+}
+
 @media (min-width: 992px) {
   header.masthead>.overlay {
     padding: 10rem 0;
