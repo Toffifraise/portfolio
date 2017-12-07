@@ -99,6 +99,10 @@ h1.display-1{
   }
 }
 
+#inspiration {
+  margin-bottom: 50px;
+}
+
 footer.py-5 {
   background-color: rgb(142, 11, 14);
 }
